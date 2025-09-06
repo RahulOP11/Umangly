@@ -34,6 +34,7 @@ export const Header = ({name, course}) => {
 <h1>name={name}</h1>
 <h1>course={course}</h1>
 
+<h1>hiiiiiiiii</h1>
 </>
   )
 }
